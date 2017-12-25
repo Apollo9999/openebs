@@ -1,5 +1,7 @@
 
-CockroachDB
+CockroachDB 
+The SQL database for building global cloud services. 
+
 ================
 This section demonstrates the deployment of CockroachDB as a StatefulSet in a Kubernetes cluster. You will be able to spawn a CockroachDB StatefulSet that will use OpenEBS as its persistent storage.
 
